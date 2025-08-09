@@ -1,0 +1,39 @@
+.firstcard {
+
+    width:  500px;
+    height: 500px;
+
+    
+
+}
+
+.secondcard {
+
+    width: 300px;
+    height: 330px;
+
+}
+
+.cardtitle {
+    
+    font-size: x-large;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.cardimg{
+    margin-top: 20px;   
+    margin-left: 150px ;
+    margin-right: 150px;
+    width: 200px;
+    height: auto;
+
+}
+
+.cardtext {
+
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 20px;
+
+}

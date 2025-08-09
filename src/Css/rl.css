@@ -1,0 +1,30 @@
+
+.navbartext{
+
+    font-size: 18px;
+    font-style: oblique;
+
+}
+
+.button {
+
+    font-size: 14px;   
+    width: 160px;
+    height: 40px;
+    
+}
+
+.marginsetting{
+    margin-left: 210px;
+}
+
+
+._height2xl {
+
+    height: 24px;
+}
+
+.img {
+    height: 600px;
+    margin-left: 70px;
+}
