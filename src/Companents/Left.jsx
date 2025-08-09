@@ -1,7 +1,7 @@
 
 import React from 'react'
 import Navbar from './Navbar'
-import '../Css/rl.Css'
+import '../Css/rl.css'
 
 function Left({children}) {
   return (
