@@ -11,16 +11,16 @@ function About() {
         
         {/* Sol kart*/}
         <div className='shadow-lg rounded-md w-full md:w-auto bg-gray-100 secondcard md:mr-30 mb-6 md:mb-0 max-w-sm p-4'>
-          <h1 className='text-xl font-bold text-center mb-3'>Değerlerim & Vizyonum</h1>
+          <h1 className='text-xl font-bold text-center mb-3'>My Values & Vision</h1>
   
           <div className='space-y-3'>
             <div>
-              <h2 className='font-medium'>Değerlerim:</h2>
+              <h2 className='font-medium'>My values:</h2>
               <ul className='list-disc pl-5 space-y-1'>
-                <li>Sürekli öğrenme ve gelişim</li>
-                <li>Yenilikçi düşünme</li>
-                <li>Problem çözme odaklılık</li>
-                <li>İşbirliği ve takım çalışması</li>
+                <li>Continuous learning and development</li>
+                <li>Innovative thinking</li>
+                <li>Problem-solving orientation</li>
+                <li>Collaboration and teamwork</li>
               </ul>
             </div>
     

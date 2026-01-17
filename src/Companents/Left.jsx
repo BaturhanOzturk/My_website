@@ -12,14 +12,14 @@ function Left({children}) {
       <div className='block md:hidden w-full text-center mt-16'>
         <p className='text-xl font-extralight mx-auto'>Hello! I'm</p>
         <h1 className='text-4xl pt-3 font-bold mx-auto'>Baturhan Öztürk</h1>
-        <p className='text-sm mx-auto'>Birlikte Yaşamak İçin Birlikte Çalşalım!</p>
+        <p className='text-sm mx-auto'>Let's Work Together to Live Together!</p>
       </div>
       
       {/* Desktop için */}
       <div className='hidden md:block marginsetting mt-30'>
         <p className='text-2xl font-extralight pl-1'>Hello! I'm</p>
         <h1 className='text-5xl pt-3 font-bold'>Baturhan Öztürk</h1>
-        <p className='pl-1'>Birlikte Yaşamak İçin Birlikte Çalışalım!</p>
+        <p className='pl-1'>Let's Work Together to Live Together!</p>
       </div>
 
       <div className='flex flex-col md:flex-row justify-center items-center gap-4 mt-8'>
